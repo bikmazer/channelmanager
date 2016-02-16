@@ -1,0 +1,13 @@
+{
+    "name": "bikmazer/channelmanager",
+    "description": "Channel Manager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasin BIKMAZER",
+            "email": "yasibikmazer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
